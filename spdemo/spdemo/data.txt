@@ -1,0 +1,1419 @@
+深入浅出玩转FPGA（第2版 附光盘）
+Xilinx FPGA开发实用教程（第2版）（配光盘）（EDA工程技术丛书）
+例说FPGA：可直接用于工程项目的第一手经验
+FPGA深度解析
+Xilinx FPGA数字信号处理权威指南：从HDL到模型和C的描述
+FPGA设计实战演练（高级技巧篇）
+数字信号处理的FPGA实现（第3版）（配光盘）（国外电子信息经典教材）
+嵌入式高速串行总线技术：基于FPGA实现与应用
+应用技术丛书：Xilinx系列FPGA芯片IP核详解
+FPGA异构计算：基于OpenCL的开发方法
+电子系统EDA新技术丛书·Xilinx FPGA权威设计指南：Vivado 2014集成开发环境
+高性能FPGA系统：时序设计与分析
+FPGA博客藏经阁丛书：那些年，我们拿下了
+FPGA那些事儿：Verilog HDL建模设计
+应用技术丛书：Altera系列FPGA芯片IP核详解
+数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA/CPLD边练边学：快速入门Verilog/VHDL
+Xilinx FPGA高速串行传输技术与应用
+电子设计与嵌入式开发实践丛书：FPGA设计实战演练（逻辑篇）
+应用技术丛书：数字通信同步技术的MATLAB与FPGA实现（附光盘）
+DSP/FPGA嵌入式实时处理技术及应用
+Altera FPGA/CPLD设计（基础篇）（第2版）（附光盘1张）
+基于FPGA的嵌入式系统设计：Altera SoC 
+你好FPGA：一本可以听的入门书
+博客藏经阁丛书：深入理解Altera FPGA应用设计
+数字通信同步技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+Verilog HDL与FPGA数字系统设计/高等院校电子信息与电气学科系列规划教材
+XILINX大学合作计划指定教材：FPGA上的嵌入式系统设计实例（附光盘）
+FPGA设计：从电路到系统（电子设计与嵌入式开发实践丛书）
+FPGA设计基础
+FPGA与SOPC设计教程：DE2实践（附盘）
+EDA技术与CPLD/FPGA开发应用简明教程（第2版）/高等学校计算机应用规划教材
+高性能FPGA系统:时序设计与分析
+三位一体实战精讲系列丛书：FPGA嵌入式项目开发三位一体实战精讲（附光盘1张）
+硬件描述语言与FPGA设计技术
+锁相环技术原理及FPGA实现
+FPGA CPLD边练边学 快速入门Verilog VHDL 计算机与互联网 书籍
+Xilinx FPGA应用进阶——通用IP核详解和设计开发
+包邮基于Xilinx Vivado的数字逻辑实验教程+基于FPGA的数字信号处理(第2版)
+基于SRAM的FPGA容错技术
+基于FPGA的数字电路实验指导书
+Xilinx FPGA/CPLD设计手册
+区域包邮FPGA设计技巧与案例开发详解（第2版）
+Xilinx FPGA高速串行传输技术与应用 黄万伟等编 科技 书籍
+FPGA深度解析
+FPGA设计实战演练逻辑篇 吴厚航编 计算机与互联网 书籍
+单片机与FPGA实训教程
+高等学校信息工程类“十二五”规划教材：Xilinx FPGA设计基础（VHDL版）（附光盘1张）
+Xilinx FPGA数字电路设计
+数字调制解调技术的MATLAB与FPGA实现 Altera Verilog版 杜勇编 计
+用VERILOG设计FPGA样机实例解析(XILINX SPARTAN-
+零存整取NetFPGA开发指南
+例说FPGA吴厚航 可直接用于工程项目的**手经验
+区域包邮 FPGA设计实战演练（高级技巧篇）+
+FPGA/CPLD应用设计200例．下册
+ARM7与FPGA综合设计及应用(含1CD)
+Xilinx FPGA开发实用教程(第2版) 徐文波田耘 计算机与互联网 书籍
+FPGA设计
+CPLD/FPGA与ASIC设计实践教程（第二版）
+FPGA技术及应用
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+FPGA数字信号处理与工程应用实践(含盘)
+Altera FPGA/CPLD设计(高级篇)(第2版)(Altera公司推荐
+基于FPGA的嵌入式系统设计-Altera SoC 
+微机原理与接口技术：基本原理、实用技术和基于FPGA的SOC技术
+基于Quartus II的FPGA/CPLD设计实例精解 李大社 电子工业出版社 9787
+电子设计自动化应用技术——FPGA应用篇 路而红 9787040280500
+电子系统设计与实战——STM32+FPGA控制版  9787040427332
+包邮 基于Xilinx Vivado的数字逻辑实验教程 Vivado FPGA硬件开发教程
+基于FPGA的数字系统设计与实践/电子信息科学与工程类专业规划教材
+基于FPGA的现代数字系统设计 刘桂华编 科技 书籍
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材 电子信息
+FPGA数字逻辑设计/21世纪大学本科计算机专业系列教材
+包邮 Verilog-HDL实用设计与工程制作+Verilog HDL与FPGA数字系统设
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材·电子信息
+包邮 勇敢的芯伴你玩转Nios II+基于VHDL的FPGA和Nios II实例精炼 Ni
+基于FPGA的数字图像处理原理及应用 科技 书籍
+EDA技术与CPLD/FPGA开发应用简明教程/刘爱荣，王振成，曹瑞，卢
+电子设计自动化应用技术--FPGA应用篇(普通高等教育十一五国家级
+微型计算机系统接口技术实验教程-基于FPGA 第二版  清华大学计算机系列教材
+EDA技术与CPLD-FPGA开发简明教程-(第二版)-高等
+FPGA数字信号处理设计教程--System Gener
+工程技术丛书：FPGA电子系统设计项目实战（VHDL语言）
+电子与嵌入式系统设计译丛：FPGA快速系统原型设计权威指南
+FPGA应用技术及实践（第2版）
+【满58包邮】数字电路的FPGA设计与实现(应用篇)周鹏机械工业出版社大学教材大学课本高职
+【满58包邮】数字电路的FPGA设计与实现(基础篇)刘岚著机械工业出版社大学教材大学课本高
+FPGA/Verilog技术基础与工程应用实例/21世纪高等学校规划教材 电子信息
+FPGA上的嵌入式系统设计实例附光盘XILINX大学合作计划指定教材 赵峰//马迪铭//孙
+FPGA应用技术及实践null
+FPGA开发与应用
+FPGA设计-(含光盘)
+FPGA Implementation of Mil-Std-1553b Bus...
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA应用开发入门与典型实例（修订版）
+Synthesis of Arithmetic Circuits: FPGA, ...
+Field-Programmable Gate Array (FPGA) Tec...
+Guide to FPGA Implementation of Arithmet...
+Advanced FPGA Design: Architecture, Impl...
+工程技术丛书：Xilinx新一代FPGA设计套件Vivado应用指南
+无线通信的MATLAB 和FPGA 实现  人民邮电出版社 POD按需出版
+电子系统设计与实战：STM32+FPGA控制版
+数字逻辑原理与FPGA设计(第2版)
+数字电路与FPGA/21世纪信息与通信技术教程 7成新
+基于Quartus II的FPGA/CPLD数字系统设计与应用 工业技术 书籍
+高性能FPGA系统-时序设计与分析
+实例讲解 基于Quartus II的FPGA/CPLD数字系统设计快速入门+基于Quart
+基于FPGA的伺服系统数字控制技术
+Altera FPGA/CPLD设计（高级篇）（第2版）（附光盘1张）
+包邮 数字滤波器+数字通信同步技术+数字调制解调技术的MATLAB与FPGA实现: Alt
+基于SRAM的FPGA容错技术
+用Verilog设计FPGA样机实例解析
+电子电气设计与自动控制系列 CPLD/FPGA应用开发技术与工程实践  求是科技 编著
+Verilog FPGA芯片设计(附光盘)
+基于Quartus Ⅱ的FPGA/CPLD数字系统设计实例 周润景,图雅,张丽敏著 电子工
+7天搞定FPGA-Robei与Xilinx实战
+基于FPGA密码技术的设计与应用杨军
+基于FPGA的数字信号处理
+FPGA Optimized Processor
+电子设计自动化应用技术：FPGA应用篇
+FPGA/ASIC高性能数字系统设计
+FPGA快速系统原型设计权威指南
+数字通信同步技术的MATLAB与FPGA实现-(含光盘1张
+基于FPGA的数字系统设计与实践
+FPGA异构计算--基于Open CL的开发方法
+数字电路与FPGA设计实验教程
+数字电路的FPGA设计与实现(基础篇)
+数字电路的FPGA设计与实现(应用篇)
+CPLD/FPGA与ASIC设计实践教程(第二版)
+CPLD/FPGA设计预与应用高级教程/郭利文，邓月明
+FPGA设计基础 王传新 9787040224832
+EDA技术与FPGA应用设计 7成新
+基于Quartus Prime的FPGA/CPLD数字系统设计实例（第3版）
+Verilog HDL与CPLD/FPGA项目开发教程 第2版
+基于FPGA的EDA/SOPC技术与VHDL/杨晓慧，杨永健著
+FPGA/CPLD应用技术:Verilog语言版王静霞主编 第2版
+基于FPGA的计算机体系结构实践教程杨军
+EDA技术与CPLD/FPGA开发应用简明教程 第二版
+FPGA设计及应用(第3版) 褚振勇 科技 书籍
+数字电路的FPGA设计与实现（基础篇 附光盘1张）
+Xilinx FPGA设计与实践教程/赵吉成赵吉成
+微型计算机接口技术实验教程：基于FPGA设计
+正版现货 数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版
+手把手教你学CPLD FPGA与单片机联合设计(附光盘)/手把手教你学系列丛书
+典型密码算法FPGA实现 杨亚涛 9787121303838
+Altera FPGA 9成新
+例说FPGA 可直接用于工程项目的第*手经验+锁相环技术原理及
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版
+Xilinx ZYNQ-7000 AP SoC开发实战指南 FPGA系统结构分析 XADC
+轻松学会FPGA设计与开发
+CPLD-FPGA应用项目教程
+FPGA兼容ARM9的软核处理器设计：基于
+DSP/FPGA嵌入式实时处理技术及应用
+普通高等院校“十二五”规划教材：FPGA应用实验教程
+FPGA开发与应用(高等学校应用型特色规划教材)
+正版新书 基于FPGA的数字电路实验指导书
+Xilinx FPGA高速串行传输技术与应用
+FPGA电子系统设计项目实战-(VHDL语言)
+FPGA高手设计实战真经100则
+FPGA设计实战演练(高级技巧篇)
+FPGA项目开发实战讲解|4675300
+FPGA应用技术及实践-(第2版)
+EDA技术与FPGA工程实例开发/任文平等
+CPLD-FPGA 技术应用项目教程
+硬件描述语言与FPGA设计技术
+FPGA/CPLD系统设计与应用开发
+Xilinx系统FPGA芯片IP核详解
+你好FPGA-一本可以听的入门书
+Verilog HDL与CPLD FPGA项目开发教程(
+你好FPGA-一本可以听的入门书
+FPGA应用技术及实践-(第2版)
+面向CPLD/FPGA的Verilog设计
+硬件描述语言与FPGA设计技术
+FPGA应用技术教程（Xilinx公司大学计划官方指定教材）/21世纪高等院校信息与通信工程规划教材·精品系列
+Xilinx PlanAhead应用详解   FPGA应用技术丛书
+嵌入式高速串行总线技术-基于FPGA实现与应用
+实例讲解基于Quarfus II的FPGA/CPLD数字系统设计
+微型计算机系统接口技术实验教程--基于FPGA(第2版)
+FPGA与SOPC设计教程/DE2实践（含光盘）张志刚
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+数字逻辑原理与FPGA设计-(第2版)
+数字逻辑原理与FPGA设计-(第2版)
+FPGA Prototyping Using Verilog Examples:...
+Tree-Based Heterogeneous FPGA Architectu...
+FPGA Implementation of Reed-Solomon Code
+FPGA Architecture: Survey and Challenges
+【预订】FPGA Implementation of Anti-Jamming
+【预订】Practical FPGA Programming in C
+【预订】FPGA Implementation of Lmmse Detect
+【预订】A Management Paradigm for FPGA Design
+FPGA Implementation of Low Cost Holter M...
+An FPGA Based Adaptive Noise Cancellation
+Machine Vision on FPGA for Recognition o...
+【预订】Netfpga Architecture and Hardwa
+【预订】FPGA Fuzzy (Pd & Pid) Controller Models
+FPGA Implementation of Advanced Encrypti...
+FPGAEnergy Efficient Design Techniques on 
+A Novel High Speed FPGA Architecture Des...
+FPGA Implementation of DFT Using Cordic ...
+【预订】FPGA Simulation: A Complete Step-By-Step
+FPGA-Based Prototyping Methodology Manua...
+FPGAPower Analysis of Solar Inverter on 
+【预订】FPGA Field-Programmable Gate Array:
+Modular Exponent Realization on FPGA for...
+FPGA设计：从电路到系统
+基于FPGA密码技术的设计与应用
+FPGA Implementations of Neural Networks
+Guide to FPGA Implementation of Arithmet...
+Synthesis and Optimization of FPGA-Based...
+深入浅出玩转FPGA（第2版 附光盘）
+FPGA与SOPC设计教程：DE2实践（附盘）
+FPGA开发与应用
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+电子设计自动化应用技术：FPGA应用篇
+轻松学会FPGA设计与开发
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+深入浅出玩转FPGA（第2版 附光盘）
+Xilinx FPGA开发实用教程（第2版）（配光盘）（EDA工程技术丛书）
+例说FPGA：可直接用于工程项目的第一手经验
+FPGA深度解析
+Xilinx FPGA数字信号处理权威指南：从HDL到模型和C的描述
+FPGA设计实战演练（高级技巧篇）
+数字信号处理的FPGA实现（第3版）（配光盘）（国外电子信息经典教材）
+嵌入式高速串行总线技术：基于FPGA实现与应用
+应用技术丛书：Xilinx系列FPGA芯片IP核详解
+FPGA异构计算：基于OpenCL的开发方法
+电子系统EDA新技术丛书·Xilinx FPGA权威设计指南：Vivado 2014集成开发环境
+高性能FPGA系统：时序设计与分析
+FPGA博客藏经阁丛书：那些年，我们拿下了
+FPGA那些事儿：Verilog HDL建模设计
+应用技术丛书：Altera系列FPGA芯片IP核详解
+数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA/CPLD边练边学：快速入门Verilog/VHDL
+Xilinx FPGA高速串行传输技术与应用
+电子设计与嵌入式开发实践丛书：FPGA设计实战演练（逻辑篇）
+应用技术丛书：数字通信同步技术的MATLAB与FPGA实现（附光盘）
+DSP/FPGA嵌入式实时处理技术及应用
+Altera FPGA/CPLD设计（基础篇）（第2版）（附光盘1张）
+基于FPGA的嵌入式系统设计：Altera SoC 
+你好FPGA：一本可以听的入门书
+博客藏经阁丛书：深入理解Altera FPGA应用设计
+数字通信同步技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+Verilog HDL与FPGA数字系统设计/高等院校电子信息与电气学科系列规划教材
+XILINX大学合作计划指定教材：FPGA上的嵌入式系统设计实例（附光盘）
+FPGA设计：从电路到系统（电子设计与嵌入式开发实践丛书）
+FPGA设计基础
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+数字逻辑原理与FPGA设计-(第2版)
+数字逻辑原理与FPGA设计-(第2版)
+FPGA Prototyping Using Verilog Examples:...
+Tree-Based Heterogeneous FPGA Architectu...
+FPGA Implementation of Reed-Solomon Code
+FPGA Architecture: Survey and Challenges
+【预订】FPGA Implementation of Anti-Jamming
+【预订】Practical FPGA Programming in C
+【预订】FPGA Implementation of Lmmse Detect
+【预订】A Management Paradigm for FPGA Design
+FPGA Implementation of Low Cost Holter M...
+An FPGA Based Adaptive Noise Cancellation
+Machine Vision on FPGA for Recognition o...
+【预订】Netfpga Architecture and Hardwa
+【预订】FPGA Fuzzy (Pd & Pid) Controller Models
+FPGA Implementation of Advanced Encrypti...
+FPGAEnergy Efficient Design Techniques on 
+A Novel High Speed FPGA Architecture Des...
+FPGA Implementation of DFT Using Cordic ...
+【预订】FPGA Simulation: A Complete Step-By-Step
+FPGA-Based Prototyping Methodology Manua...
+FPGAPower Analysis of Solar Inverter on 
+【预订】FPGA Field-Programmable Gate Array:
+Modular Exponent Realization on FPGA for...
+FPGA设计：从电路到系统
+基于FPGA密码技术的设计与应用
+FPGA Implementations of Neural Networks
+Guide to FPGA Implementation of Arithmet...
+Synthesis and Optimization of FPGA-Based...
+FPGA开发与应用
+FPGA设计-(含光盘)
+FPGA Implementation of Mil-Std-1553b Bus...
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA应用开发入门与典型实例（修订版）
+Synthesis of Arithmetic Circuits: FPGA, ...
+Field-Programmable Gate Array (FPGA) Tec...
+Guide to FPGA Implementation of Arithmet...
+Advanced FPGA Design: Architecture, Impl...
+工程技术丛书：Xilinx新一代FPGA设计套件Vivado应用指南
+无线通信的MATLAB 和FPGA 实现  人民邮电出版社 POD按需出版
+电子系统设计与实战：STM32+FPGA控制版
+数字逻辑原理与FPGA设计(第2版)
+数字电路与FPGA/21世纪信息与通信技术教程 7成新
+基于Quartus II的FPGA/CPLD数字系统设计与应用 工业技术 书籍
+高性能FPGA系统-时序设计与分析
+实例讲解 基于Quartus II的FPGA/CPLD数字系统设计快速入门+基于Quart
+基于FPGA的伺服系统数字控制技术
+Altera FPGA/CPLD设计（高级篇）（第2版）（附光盘1张）
+包邮 数字滤波器+数字通信同步技术+数字调制解调技术的MATLAB与FPGA实现: Alt
+基于SRAM的FPGA容错技术
+用Verilog设计FPGA样机实例解析
+电子电气设计与自动控制系列 CPLD/FPGA应用开发技术与工程实践  求是科技 编著
+Verilog FPGA芯片设计(附光盘)
+基于Quartus Ⅱ的FPGA/CPLD数字系统设计实例 周润景,图雅,张丽敏著 电子工
+7天搞定FPGA-Robei与Xilinx实战
+基于FPGA密码技术的设计与应用杨军
+基于FPGA的数字信号处理
+FPGA Optimized Processor
+FPGA与SOPC设计教程：DE2实践（附盘）
+EDA技术与CPLD/FPGA开发应用简明教程（第2版）/高等学校计算机应用规划教材
+高性能FPGA系统:时序设计与分析
+三位一体实战精讲系列丛书：FPGA嵌入式项目开发三位一体实战精讲（附光盘1张）
+硬件描述语言与FPGA设计技术
+锁相环技术原理及FPGA实现
+FPGA CPLD边练边学 快速入门Verilog VHDL 计算机与互联网 书籍
+Xilinx FPGA应用进阶——通用IP核详解和设计开发
+包邮基于Xilinx Vivado的数字逻辑实验教程+基于FPGA的数字信号处理(第2版)
+基于SRAM的FPGA容错技术
+基于FPGA的数字电路实验指导书
+Xilinx FPGA/CPLD设计手册
+区域包邮FPGA设计技巧与案例开发详解（第2版）
+Xilinx FPGA高速串行传输技术与应用 黄万伟等编 科技 书籍
+FPGA深度解析
+FPGA设计实战演练逻辑篇 吴厚航编 计算机与互联网 书籍
+单片机与FPGA实训教程
+高等学校信息工程类“十二五”规划教材：Xilinx FPGA设计基础（VHDL版）（附光盘1张）
+Xilinx FPGA数字电路设计
+数字调制解调技术的MATLAB与FPGA实现 Altera Verilog版 杜勇编 计
+用VERILOG设计FPGA样机实例解析(XILINX SPARTAN-
+零存整取NetFPGA开发指南
+例说FPGA吴厚航 可直接用于工程项目的**手经验
+区域包邮 FPGA设计实战演练（高级技巧篇）+
+FPGA/CPLD应用设计200例．下册
+ARM7与FPGA综合设计及应用(含1CD)
+Xilinx FPGA开发实用教程(第2版) 徐文波田耘 计算机与互联网 书籍
+FPGA设计
+CPLD/FPGA与ASIC设计实践教程（第二版）
+FPGA技术及应用
+轻松学会FPGA设计与开发
+CPLD-FPGA应用项目教程
+FPGA兼容ARM9的软核处理器设计：基于
+DSP/FPGA嵌入式实时处理技术及应用
+普通高等院校“十二五”规划教材：FPGA应用实验教程
+FPGA开发与应用(高等学校应用型特色规划教材)
+正版新书 基于FPGA的数字电路实验指导书
+Xilinx FPGA高速串行传输技术与应用
+FPGA电子系统设计项目实战-(VHDL语言)
+FPGA高手设计实战真经100则
+FPGA设计实战演练(高级技巧篇)
+FPGA项目开发实战讲解|4675300
+FPGA应用技术及实践-(第2版)
+EDA技术与FPGA工程实例开发/任文平等
+CPLD-FPGA 技术应用项目教程
+硬件描述语言与FPGA设计技术
+FPGA/CPLD系统设计与应用开发
+Xilinx系统FPGA芯片IP核详解
+你好FPGA-一本可以听的入门书
+Verilog HDL与CPLD FPGA项目开发教程(
+你好FPGA-一本可以听的入门书
+FPGA应用技术及实践-(第2版)
+面向CPLD/FPGA的Verilog设计
+硬件描述语言与FPGA设计技术
+FPGA应用技术教程（Xilinx公司大学计划官方指定教材）/21世纪高等院校信息与通信工程规划教材·精品系列
+Xilinx PlanAhead应用详解   FPGA应用技术丛书
+嵌入式高速串行总线技术-基于FPGA实现与应用
+实例讲解基于Quarfus II的FPGA/CPLD数字系统设计
+微型计算机系统接口技术实验教程--基于FPGA(第2版)
+FPGA与SOPC设计教程/DE2实践（含光盘）张志刚
+电子设计自动化应用技术：FPGA应用篇
+FPGA/ASIC高性能数字系统设计
+FPGA快速系统原型设计权威指南
+数字通信同步技术的MATLAB与FPGA实现-(含光盘1张
+基于FPGA的数字系统设计与实践
+FPGA异构计算--基于Open CL的开发方法
+数字电路与FPGA设计实验教程
+数字电路的FPGA设计与实现(基础篇)
+数字电路的FPGA设计与实现(应用篇)
+CPLD/FPGA与ASIC设计实践教程(第二版)
+CPLD/FPGA设计预与应用高级教程/郭利文，邓月明
+FPGA设计基础 王传新 9787040224832
+EDA技术与FPGA应用设计 7成新
+基于Quartus Prime的FPGA/CPLD数字系统设计实例（第3版）
+Verilog HDL与CPLD/FPGA项目开发教程 第2版
+基于FPGA的EDA/SOPC技术与VHDL/杨晓慧，杨永健著
+FPGA/CPLD应用技术:Verilog语言版王静霞主编 第2版
+基于FPGA的计算机体系结构实践教程杨军
+EDA技术与CPLD/FPGA开发应用简明教程 第二版
+FPGA设计及应用(第3版) 褚振勇 科技 书籍
+数字电路的FPGA设计与实现（基础篇 附光盘1张）
+Xilinx FPGA设计与实践教程/赵吉成赵吉成
+微型计算机接口技术实验教程：基于FPGA设计
+正版现货 数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版
+手把手教你学CPLD FPGA与单片机联合设计(附光盘)/手把手教你学系列丛书
+典型密码算法FPGA实现 杨亚涛 9787121303838
+Altera FPGA 9成新
+例说FPGA 可直接用于工程项目的第*手经验+锁相环技术原理及
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版
+Xilinx ZYNQ-7000 AP SoC开发实战指南 FPGA系统结构分析 XADC
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+FPGA数字信号处理与工程应用实践(含盘)
+Altera FPGA/CPLD设计(高级篇)(第2版)(Altera公司推荐
+基于FPGA的嵌入式系统设计-Altera SoC 
+微机原理与接口技术：基本原理、实用技术和基于FPGA的SOC技术
+基于Quartus II的FPGA/CPLD设计实例精解 李大社 电子工业出版社 9787
+电子设计自动化应用技术——FPGA应用篇 路而红 9787040280500
+电子系统设计与实战——STM32+FPGA控制版  9787040427332
+包邮 基于Xilinx Vivado的数字逻辑实验教程 Vivado FPGA硬件开发教程
+基于FPGA的数字系统设计与实践/电子信息科学与工程类专业规划教材
+基于FPGA的现代数字系统设计 刘桂华编 科技 书籍
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材 电子信息
+FPGA数字逻辑设计/21世纪大学本科计算机专业系列教材
+包邮 Verilog-HDL实用设计与工程制作+Verilog HDL与FPGA数字系统设
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材·电子信息
+包邮 勇敢的芯伴你玩转Nios II+基于VHDL的FPGA和Nios II实例精炼 Ni
+基于FPGA的数字图像处理原理及应用 科技 书籍
+EDA技术与CPLD/FPGA开发应用简明教程/刘爱荣，王振成，曹瑞，卢
+电子设计自动化应用技术--FPGA应用篇(普通高等教育十一五国家级
+微型计算机系统接口技术实验教程-基于FPGA 第二版  清华大学计算机系列教材
+EDA技术与CPLD-FPGA开发简明教程-(第二版)-高等
+FPGA数字信号处理设计教程--System Gener
+工程技术丛书：FPGA电子系统设计项目实战（VHDL语言）
+电子与嵌入式系统设计译丛：FPGA快速系统原型设计权威指南
+FPGA应用技术及实践（第2版）
+【满58包邮】数字电路的FPGA设计与实现(应用篇)周鹏机械工业出版社大学教材大学课本高职
+【满58包邮】数字电路的FPGA设计与实现(基础篇)刘岚著机械工业出版社大学教材大学课本高
+FPGA/Verilog技术基础与工程应用实例/21世纪高等学校规划教材 电子信息
+FPGA上的嵌入式系统设计实例附光盘XILINX大学合作计划指定教材 赵峰//马迪铭//孙
+FPGA应用技术及实践null
+深入浅出玩转FPGA（第2版 附光盘）
+Xilinx FPGA开发实用教程（第2版）（配光盘）（EDA工程技术丛书）
+例说FPGA：可直接用于工程项目的第一手经验
+FPGA深度解析
+Xilinx FPGA数字信号处理权威指南：从HDL到模型和C的描述
+FPGA设计实战演练（高级技巧篇）
+数字信号处理的FPGA实现（第3版）（配光盘）（国外电子信息经典教材）
+嵌入式高速串行总线技术：基于FPGA实现与应用
+应用技术丛书：Xilinx系列FPGA芯片IP核详解
+FPGA异构计算：基于OpenCL的开发方法
+电子系统EDA新技术丛书·Xilinx FPGA权威设计指南：Vivado 2014集成开发环境
+高性能FPGA系统：时序设计与分析
+FPGA博客藏经阁丛书：那些年，我们拿下了
+FPGA那些事儿：Verilog HDL建模设计
+应用技术丛书：Altera系列FPGA芯片IP核详解
+数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA/CPLD边练边学：快速入门Verilog/VHDL
+Xilinx FPGA高速串行传输技术与应用
+电子设计与嵌入式开发实践丛书：FPGA设计实战演练（逻辑篇）
+应用技术丛书：数字通信同步技术的MATLAB与FPGA实现（附光盘）
+DSP/FPGA嵌入式实时处理技术及应用
+Altera FPGA/CPLD设计（基础篇）（第2版）（附光盘1张）
+基于FPGA的嵌入式系统设计：Altera SoC 
+你好FPGA：一本可以听的入门书
+博客藏经阁丛书：深入理解Altera FPGA应用设计
+数字通信同步技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+Verilog HDL与FPGA数字系统设计/高等院校电子信息与电气学科系列规划教材
+XILINX大学合作计划指定教材：FPGA上的嵌入式系统设计实例（附光盘）
+FPGA设计：从电路到系统（电子设计与嵌入式开发实践丛书）
+FPGA设计基础
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+FPGA数字信号处理与工程应用实践(含盘)
+Altera FPGA/CPLD设计(高级篇)(第2版)(Altera公司推荐
+基于FPGA的嵌入式系统设计-Altera SoC 
+微机原理与接口技术：基本原理、实用技术和基于FPGA的SOC技术
+基于Quartus II的FPGA/CPLD设计实例精解 李大社 电子工业出版社 9787
+电子设计自动化应用技术——FPGA应用篇 路而红 9787040280500
+电子系统设计与实战——STM32+FPGA控制版  9787040427332
+包邮 基于Xilinx Vivado的数字逻辑实验教程 Vivado FPGA硬件开发教程
+基于FPGA的数字系统设计与实践/电子信息科学与工程类专业规划教材
+基于FPGA的现代数字系统设计 刘桂华编 科技 书籍
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材 电子信息
+FPGA数字逻辑设计/21世纪大学本科计算机专业系列教材
+包邮 Verilog-HDL实用设计与工程制作+Verilog HDL与FPGA数字系统设
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材·电子信息
+包邮 勇敢的芯伴你玩转Nios II+基于VHDL的FPGA和Nios II实例精炼 Ni
+基于FPGA的数字图像处理原理及应用 科技 书籍
+EDA技术与CPLD/FPGA开发应用简明教程/刘爱荣，王振成，曹瑞，卢
+电子设计自动化应用技术--FPGA应用篇(普通高等教育十一五国家级
+微型计算机系统接口技术实验教程-基于FPGA 第二版  清华大学计算机系列教材
+EDA技术与CPLD-FPGA开发简明教程-(第二版)-高等
+FPGA数字信号处理设计教程--System Gener
+工程技术丛书：FPGA电子系统设计项目实战（VHDL语言）
+电子与嵌入式系统设计译丛：FPGA快速系统原型设计权威指南
+FPGA应用技术及实践（第2版）
+【满58包邮】数字电路的FPGA设计与实现(应用篇)周鹏机械工业出版社大学教材大学课本高职
+【满58包邮】数字电路的FPGA设计与实现(基础篇)刘岚著机械工业出版社大学教材大学课本高
+FPGA/Verilog技术基础与工程应用实例/21世纪高等学校规划教材 电子信息
+FPGA上的嵌入式系统设计实例附光盘XILINX大学合作计划指定教材 赵峰//马迪铭//孙
+FPGA应用技术及实践null
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+数字逻辑原理与FPGA设计-(第2版)
+数字逻辑原理与FPGA设计-(第2版)
+FPGA Prototyping Using Verilog Examples:...
+Tree-Based Heterogeneous FPGA Architectu...
+FPGA Implementation of Reed-Solomon Code
+FPGA Architecture: Survey and Challenges
+【预订】FPGA Implementation of Anti-Jamming
+【预订】Practical FPGA Programming in C
+【预订】FPGA Implementation of Lmmse Detect
+【预订】A Management Paradigm for FPGA Design
+FPGA Implementation of Low Cost Holter M...
+An FPGA Based Adaptive Noise Cancellation
+Machine Vision on FPGA for Recognition o...
+【预订】Netfpga Architecture and Hardwa
+【预订】FPGA Fuzzy (Pd & Pid) Controller Models
+FPGA Implementation of Advanced Encrypti...
+FPGAEnergy Efficient Design Techniques on 
+A Novel High Speed FPGA Architecture Des...
+FPGA Implementation of DFT Using Cordic ...
+【预订】FPGA Simulation: A Complete Step-By-Step
+FPGA-Based Prototyping Methodology Manua...
+FPGAPower Analysis of Solar Inverter on 
+【预订】FPGA Field-Programmable Gate Array:
+Modular Exponent Realization on FPGA for...
+FPGA设计：从电路到系统
+基于FPGA密码技术的设计与应用
+FPGA Implementations of Neural Networks
+Guide to FPGA Implementation of Arithmet...
+Synthesis and Optimization of FPGA-Based...
+FPGA与SOPC设计教程：DE2实践（附盘）
+EDA技术与CPLD/FPGA开发应用简明教程（第2版）/高等学校计算机应用规划教材
+高性能FPGA系统:时序设计与分析
+三位一体实战精讲系列丛书：FPGA嵌入式项目开发三位一体实战精讲（附光盘1张）
+硬件描述语言与FPGA设计技术
+锁相环技术原理及FPGA实现
+FPGA CPLD边练边学 快速入门Verilog VHDL 计算机与互联网 书籍
+Xilinx FPGA应用进阶——通用IP核详解和设计开发
+包邮基于Xilinx Vivado的数字逻辑实验教程+基于FPGA的数字信号处理(第2版)
+基于SRAM的FPGA容错技术
+基于FPGA的数字电路实验指导书
+Xilinx FPGA/CPLD设计手册
+区域包邮FPGA设计技巧与案例开发详解（第2版）
+Xilinx FPGA高速串行传输技术与应用 黄万伟等编 科技 书籍
+FPGA深度解析
+FPGA设计实战演练逻辑篇 吴厚航编 计算机与互联网 书籍
+单片机与FPGA实训教程
+高等学校信息工程类“十二五”规划教材：Xilinx FPGA设计基础（VHDL版）（附光盘1张）
+Xilinx FPGA数字电路设计
+数字调制解调技术的MATLAB与FPGA实现 Altera Verilog版 杜勇编 计
+用VERILOG设计FPGA样机实例解析(XILINX SPARTAN-
+零存整取NetFPGA开发指南
+例说FPGA吴厚航 可直接用于工程项目的**手经验
+区域包邮 FPGA设计实战演练（高级技巧篇）+
+FPGA/CPLD应用设计200例．下册
+ARM7与FPGA综合设计及应用(含1CD)
+Xilinx FPGA开发实用教程(第2版) 徐文波田耘 计算机与互联网 书籍
+FPGA设计
+CPLD/FPGA与ASIC设计实践教程（第二版）
+FPGA技术及应用
+轻松学会FPGA设计与开发
+CPLD-FPGA应用项目教程
+FPGA兼容ARM9的软核处理器设计：基于
+DSP/FPGA嵌入式实时处理技术及应用
+普通高等院校“十二五”规划教材：FPGA应用实验教程
+FPGA开发与应用(高等学校应用型特色规划教材)
+正版新书 基于FPGA的数字电路实验指导书
+Xilinx FPGA高速串行传输技术与应用
+FPGA电子系统设计项目实战-(VHDL语言)
+FPGA高手设计实战真经100则
+FPGA设计实战演练(高级技巧篇)
+FPGA项目开发实战讲解|4675300
+FPGA应用技术及实践-(第2版)
+EDA技术与FPGA工程实例开发/任文平等
+CPLD-FPGA 技术应用项目教程
+硬件描述语言与FPGA设计技术
+FPGA/CPLD系统设计与应用开发
+Xilinx系统FPGA芯片IP核详解
+你好FPGA-一本可以听的入门书
+Verilog HDL与CPLD FPGA项目开发教程(
+你好FPGA-一本可以听的入门书
+FPGA应用技术及实践-(第2版)
+面向CPLD/FPGA的Verilog设计
+硬件描述语言与FPGA设计技术
+FPGA应用技术教程（Xilinx公司大学计划官方指定教材）/21世纪高等院校信息与通信工程规划教材·精品系列
+Xilinx PlanAhead应用详解   FPGA应用技术丛书
+嵌入式高速串行总线技术-基于FPGA实现与应用
+实例讲解基于Quarfus II的FPGA/CPLD数字系统设计
+微型计算机系统接口技术实验教程--基于FPGA(第2版)
+FPGA与SOPC设计教程/DE2实践（含光盘）张志刚
+电子设计自动化应用技术：FPGA应用篇
+FPGA/ASIC高性能数字系统设计
+FPGA快速系统原型设计权威指南
+数字通信同步技术的MATLAB与FPGA实现-(含光盘1张
+基于FPGA的数字系统设计与实践
+FPGA异构计算--基于Open CL的开发方法
+数字电路与FPGA设计实验教程
+数字电路的FPGA设计与实现(基础篇)
+数字电路的FPGA设计与实现(应用篇)
+CPLD/FPGA与ASIC设计实践教程(第二版)
+CPLD/FPGA设计预与应用高级教程/郭利文，邓月明
+FPGA设计基础 王传新 9787040224832
+EDA技术与FPGA应用设计 7成新
+基于Quartus Prime的FPGA/CPLD数字系统设计实例（第3版）
+Verilog HDL与CPLD/FPGA项目开发教程 第2版
+基于FPGA的EDA/SOPC技术与VHDL/杨晓慧，杨永健著
+FPGA/CPLD应用技术:Verilog语言版王静霞主编 第2版
+基于FPGA的计算机体系结构实践教程杨军
+EDA技术与CPLD/FPGA开发应用简明教程 第二版
+FPGA设计及应用(第3版) 褚振勇 科技 书籍
+数字电路的FPGA设计与实现（基础篇 附光盘1张）
+Xilinx FPGA设计与实践教程/赵吉成赵吉成
+微型计算机接口技术实验教程：基于FPGA设计
+正版现货 数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版
+手把手教你学CPLD FPGA与单片机联合设计(附光盘)/手把手教你学系列丛书
+典型密码算法FPGA实现 杨亚涛 9787121303838
+Altera FPGA 9成新
+例说FPGA 可直接用于工程项目的第*手经验+锁相环技术原理及
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版
+Xilinx ZYNQ-7000 AP SoC开发实战指南 FPGA系统结构分析 XADC
+FPGA开发与应用
+FPGA设计-(含光盘)
+FPGA Implementation of Mil-Std-1553b Bus...
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA应用开发入门与典型实例（修订版）
+Synthesis of Arithmetic Circuits: FPGA, ...
+Field-Programmable Gate Array (FPGA) Tec...
+Guide to FPGA Implementation of Arithmet...
+Advanced FPGA Design: Architecture, Impl...
+工程技术丛书：Xilinx新一代FPGA设计套件Vivado应用指南
+无线通信的MATLAB 和FPGA 实现  人民邮电出版社 POD按需出版
+电子系统设计与实战：STM32+FPGA控制版
+数字逻辑原理与FPGA设计(第2版)
+数字电路与FPGA/21世纪信息与通信技术教程 7成新
+基于Quartus II的FPGA/CPLD数字系统设计与应用 工业技术 书籍
+高性能FPGA系统-时序设计与分析
+实例讲解 基于Quartus II的FPGA/CPLD数字系统设计快速入门+基于Quart
+基于FPGA的伺服系统数字控制技术
+Altera FPGA/CPLD设计（高级篇）（第2版）（附光盘1张）
+包邮 数字滤波器+数字通信同步技术+数字调制解调技术的MATLAB与FPGA实现: Alt
+基于SRAM的FPGA容错技术
+用Verilog设计FPGA样机实例解析
+电子电气设计与自动控制系列 CPLD/FPGA应用开发技术与工程实践  求是科技 编著
+Verilog FPGA芯片设计(附光盘)
+基于Quartus Ⅱ的FPGA/CPLD数字系统设计实例 周润景,图雅,张丽敏著 电子工
+7天搞定FPGA-Robei与Xilinx实战
+基于FPGA密码技术的设计与应用杨军
+基于FPGA的数字信号处理
+FPGA Optimized Processor
+深入浅出玩转FPGA（第2版 附光盘）
+Xilinx FPGA开发实用教程（第2版）（配光盘）（EDA工程技术丛书）
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+FPGA数字信号处理与工程应用实践(含盘)
+FPGA开发与应用
+FPGA设计-(含光盘)
+FPGA与SOPC设计教程：DE2实践（附盘）
+EDA技术与CPLD/FPGA开发应用简明教程（第2版）/高等学校计算机应用规划教材
+轻松学会FPGA设计与开发
+CPLD-FPGA应用项目教程
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+数字逻辑原理与FPGA设计-(第2版)
+电子设计自动化应用技术：FPGA应用篇
+FPGA/ASIC高性能数字系统设计
+深入浅出玩转FPGA（第2版 附光盘）
+Xilinx FPGA开发实用教程（第2版）（配光盘）（EDA工程技术丛书）
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+数字逻辑原理与FPGA设计-(第2版)
+电子设计自动化应用技术：FPGA应用篇
+FPGA/ASIC高性能数字系统设计
+轻松学会FPGA设计与开发
+FPGA开发与应用
+FPGA设计-(含光盘)
+FPGA与SOPC设计教程：DE2实践（附盘）
+EDA技术与CPLD/FPGA开发应用简明教程（第2版）/高等学校计算机应用规划教材
+深入浅出玩转FPGA（第2版 附光盘）
+Xilinx FPGA开发实用教程（第2版）（配光盘）（EDA工程技术丛书）
+例说FPGA：可直接用于工程项目的第一手经验
+FPGA深度解析
+Xilinx FPGA数字信号处理权威指南：从HDL到模型和C的描述
+FPGA设计实战演练（高级技巧篇）
+数字信号处理的FPGA实现（第3版）（配光盘）（国外电子信息经典教材）
+嵌入式高速串行总线技术：基于FPGA实现与应用
+应用技术丛书：Xilinx系列FPGA芯片IP核详解
+FPGA异构计算：基于OpenCL的开发方法
+电子系统EDA新技术丛书·Xilinx FPGA权威设计指南：Vivado 2014集成开发环境
+高性能FPGA系统：时序设计与分析
+FPGA博客藏经阁丛书：那些年，我们拿下了
+FPGA那些事儿：Verilog HDL建模设计
+应用技术丛书：Altera系列FPGA芯片IP核详解
+数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA/CPLD边练边学：快速入门Verilog/VHDL
+Xilinx FPGA高速串行传输技术与应用
+电子设计与嵌入式开发实践丛书：FPGA设计实战演练（逻辑篇）
+应用技术丛书：数字通信同步技术的MATLAB与FPGA实现（附光盘）
+DSP/FPGA嵌入式实时处理技术及应用
+Altera FPGA/CPLD设计（基础篇）（第2版）（附光盘1张）
+基于FPGA的嵌入式系统设计：Altera SoC 
+你好FPGA：一本可以听的入门书
+博客藏经阁丛书：深入理解Altera FPGA应用设计
+数字通信同步技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+Verilog HDL与FPGA数字系统设计/高等院校电子信息与电气学科系列规划教材
+XILINX大学合作计划指定教材：FPGA上的嵌入式系统设计实例（附光盘）
+FPGA设计：从电路到系统（电子设计与嵌入式开发实践丛书）
+FPGA设计基础
+电子设计自动化应用技术：FPGA应用篇
+FPGA/ASIC高性能数字系统设计
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+数字逻辑原理与FPGA设计-(第2版)
+轻松学会FPGA设计与开发
+FPGA开发与应用
+FPGA设计-(含光盘)
+FPGA与SOPC设计教程：DE2实践（附盘）
+EDA技术与CPLD/FPGA开发应用简明教程（第2版）/高等学校计算机应用规划教材
+高性能FPGA系统:时序设计与分析
+深入浅出玩转FPGA（第2版 附光盘）
+Xilinx FPGA开发实用教程（第2版）（配光盘）（EDA工程技术丛书）
+例说FPGA：可直接用于工程项目的第一手经验
+FPGA深度解析
+Xilinx FPGA数字信号处理权威指南：从HDL到模型和C的描述
+FPGA设计实战演练（高级技巧篇）
+数字信号处理的FPGA实现（第3版）（配光盘）（国外电子信息经典教材）
+嵌入式高速串行总线技术：基于FPGA实现与应用
+应用技术丛书：Xilinx系列FPGA芯片IP核详解
+FPGA异构计算：基于OpenCL的开发方法
+电子系统EDA新技术丛书·Xilinx FPGA权威设计指南：Vivado 2014集成开发环境
+高性能FPGA系统：时序设计与分析
+FPGA博客藏经阁丛书：那些年，我们拿下了
+FPGA那些事儿：Verilog HDL建模设计
+应用技术丛书：Altera系列FPGA芯片IP核详解
+数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA/CPLD边练边学：快速入门Verilog/VHDL
+Xilinx FPGA高速串行传输技术与应用
+电子设计与嵌入式开发实践丛书：FPGA设计实战演练（逻辑篇）
+应用技术丛书：数字通信同步技术的MATLAB与FPGA实现（附光盘）
+DSP/FPGA嵌入式实时处理技术及应用
+Altera FPGA/CPLD设计（基础篇）（第2版）（附光盘1张）
+基于FPGA的嵌入式系统设计：Altera SoC 
+你好FPGA：一本可以听的入门书
+博客藏经阁丛书：深入理解Altera FPGA应用设计
+数字通信同步技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+Verilog HDL与FPGA数字系统设计/高等院校电子信息与电气学科系列规划教材
+XILINX大学合作计划指定教材：FPGA上的嵌入式系统设计实例（附光盘）
+FPGA设计：从电路到系统（电子设计与嵌入式开发实践丛书）
+FPGA设计基础
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+FPGA数字信号处理与工程应用实践(含盘)
+Altera FPGA/CPLD设计(高级篇)(第2版)(Altera公司推荐
+基于FPGA的嵌入式系统设计-Altera SoC 
+微机原理与接口技术：基本原理、实用技术和基于FPGA的SOC技术
+基于Quartus II的FPGA/CPLD设计实例精解 李大社 电子工业出版社 9787
+电子设计自动化应用技术——FPGA应用篇 路而红 9787040280500
+电子系统设计与实战——STM32+FPGA控制版  9787040427332
+包邮 基于Xilinx Vivado的数字逻辑实验教程 Vivado FPGA硬件开发教程
+基于FPGA的数字系统设计与实践/电子信息科学与工程类专业规划教材
+基于FPGA的现代数字系统设计 刘桂华编 科技 书籍
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材 电子信息
+FPGA数字逻辑设计/21世纪大学本科计算机专业系列教材
+包邮 Verilog-HDL实用设计与工程制作+Verilog HDL与FPGA数字系统设
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材·电子信息
+包邮 勇敢的芯伴你玩转Nios II+基于VHDL的FPGA和Nios II实例精炼 Ni
+基于FPGA的数字图像处理原理及应用 科技 书籍
+EDA技术与CPLD/FPGA开发应用简明教程/刘爱荣，王振成，曹瑞，卢
+电子设计自动化应用技术--FPGA应用篇(普通高等教育十一五国家级
+微型计算机系统接口技术实验教程-基于FPGA 第二版  清华大学计算机系列教材
+EDA技术与CPLD-FPGA开发简明教程-(第二版)-高等
+FPGA数字信号处理设计教程--System Gener
+工程技术丛书：FPGA电子系统设计项目实战（VHDL语言）
+电子与嵌入式系统设计译丛：FPGA快速系统原型设计权威指南
+FPGA应用技术及实践（第2版）
+【满58包邮】数字电路的FPGA设计与实现(应用篇)周鹏机械工业出版社大学教材大学课本高职
+【满58包邮】数字电路的FPGA设计与实现(基础篇)刘岚著机械工业出版社大学教材大学课本高
+FPGA/Verilog技术基础与工程应用实例/21世纪高等学校规划教材 电子信息
+FPGA上的嵌入式系统设计实例附光盘XILINX大学合作计划指定教材 赵峰//马迪铭//孙
+FPGA应用技术及实践null
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+数字逻辑原理与FPGA设计-(第2版)
+数字逻辑原理与FPGA设计-(第2版)
+电子设计自动化应用技术：FPGA应用篇
+FPGA/ASIC高性能数字系统设计
+FPGA快速系统原型设计权威指南
+数字通信同步技术的MATLAB与FPGA实现-(含光盘1张
+基于FPGA的数字系统设计与实践
+FPGA异构计算--基于Open CL的开发方法
+数字电路与FPGA设计实验教程
+数字电路的FPGA设计与实现(基础篇)
+数字电路的FPGA设计与实现(应用篇)
+CPLD/FPGA与ASIC设计实践教程(第二版)
+CPLD/FPGA设计预与应用高级教程/郭利文，邓月明
+FPGA设计基础 王传新 9787040224832
+EDA技术与FPGA应用设计 7成新
+基于Quartus Prime的FPGA/CPLD数字系统设计实例（第3版）
+Verilog HDL与CPLD/FPGA项目开发教程 第2版
+基于FPGA的EDA/SOPC技术与VHDL/杨晓慧，杨永健著
+FPGA/CPLD应用技术:Verilog语言版王静霞主编 第2版
+基于FPGA的计算机体系结构实践教程杨军
+EDA技术与CPLD/FPGA开发应用简明教程 第二版
+FPGA设计及应用(第3版) 褚振勇 科技 书籍
+数字电路的FPGA设计与实现（基础篇 附光盘1张）
+Xilinx FPGA设计与实践教程/赵吉成赵吉成
+微型计算机接口技术实验教程：基于FPGA设计
+正版现货 数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版
+手把手教你学CPLD FPGA与单片机联合设计(附光盘)/手把手教你学系列丛书
+典型密码算法FPGA实现 杨亚涛 9787121303838
+Altera FPGA 9成新
+例说FPGA 可直接用于工程项目的第*手经验+锁相环技术原理及
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版
+Xilinx ZYNQ-7000 AP SoC开发实战指南 FPGA系统结构分析 XADC
+轻松学会FPGA设计与开发
+CPLD-FPGA应用项目教程
+FPGA兼容ARM9的软核处理器设计：基于
+DSP/FPGA嵌入式实时处理技术及应用
+FPGA开发与应用
+FPGA设计-(含光盘)
+FPGA Implementation of Mil-Std-1553b Bus...
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA应用开发入门与典型实例（修订版）
+Synthesis of Arithmetic Circuits: FPGA, ...
+Field-Programmable Gate Array (FPGA) Tec...
+Guide to FPGA Implementation of Arithmet...
+Advanced FPGA Design: Architecture, Impl...
+工程技术丛书：Xilinx新一代FPGA设计套件Vivado应用指南
+无线通信的MATLAB 和FPGA 实现  人民邮电出版社 POD按需出版
+电子系统设计与实战：STM32+FPGA控制版
+数字逻辑原理与FPGA设计(第2版)
+FPGA与SOPC设计教程：DE2实践（附盘）
+EDA技术与CPLD/FPGA开发应用简明教程（第2版）/高等学校计算机应用规划教材
+高性能FPGA系统:时序设计与分析
+三位一体实战精讲系列丛书：FPGA嵌入式项目开发三位一体实战精讲（附光盘1张）
+硬件描述语言与FPGA设计技术
+锁相环技术原理及FPGA实现
+FPGA CPLD边练边学 快速入门Verilog VHDL 计算机与互联网 书籍
+Xilinx FPGA应用进阶——通用IP核详解和设计开发
+包邮基于Xilinx Vivado的数字逻辑实验教程+基于FPGA的数字信号处理(第2版)
+基于SRAM的FPGA容错技术
+基于FPGA的数字电路实验指导书
+Xilinx FPGA/CPLD设计手册
+区域包邮FPGA设计技巧与案例开发详解（第2版）
+Xilinx FPGA高速串行传输技术与应用 黄万伟等编 科技 书籍
+FPGA深度解析
+深入浅出玩转FPGA（第2版 附光盘）
+Xilinx FPGA开发实用教程（第2版）（配光盘）（EDA工程技术丛书）
+例说FPGA：可直接用于工程项目的第一手经验
+FPGA深度解析
+Xilinx FPGA数字信号处理权威指南：从HDL到模型和C的描述
+FPGA设计实战演练（高级技巧篇）
+数字信号处理的FPGA实现（第3版）（配光盘）（国外电子信息经典教材）
+嵌入式高速串行总线技术：基于FPGA实现与应用
+应用技术丛书：Xilinx系列FPGA芯片IP核详解
+FPGA异构计算：基于OpenCL的开发方法
+电子系统EDA新技术丛书·Xilinx FPGA权威设计指南：Vivado 2014集成开发环境
+高性能FPGA系统：时序设计与分析
+FPGA博客藏经阁丛书：那些年，我们拿下了
+FPGA那些事儿：Verilog HDL建模设计
+应用技术丛书：Altera系列FPGA芯片IP核详解
+数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA/CPLD边练边学：快速入门Verilog/VHDL
+Xilinx FPGA高速串行传输技术与应用
+电子设计与嵌入式开发实践丛书：FPGA设计实战演练（逻辑篇）
+应用技术丛书：数字通信同步技术的MATLAB与FPGA实现（附光盘）
+DSP/FPGA嵌入式实时处理技术及应用
+Altera FPGA/CPLD设计（基础篇）（第2版）（附光盘1张）
+基于FPGA的嵌入式系统设计：Altera SoC 
+你好FPGA：一本可以听的入门书
+博客藏经阁丛书：深入理解Altera FPGA应用设计
+数字通信同步技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+Verilog HDL与FPGA数字系统设计/高等院校电子信息与电气学科系列规划教材
+XILINX大学合作计划指定教材：FPGA上的嵌入式系统设计实例（附光盘）
+FPGA设计：从电路到系统（电子设计与嵌入式开发实践丛书）
+FPGA设计基础
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+数字逻辑原理与FPGA设计-(第2版)
+数字逻辑原理与FPGA设计-(第2版)
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+FPGA数字信号处理与工程应用实践(含盘)
+Altera FPGA/CPLD设计(高级篇)(第2版)(Altera公司推荐
+基于FPGA的嵌入式系统设计-Altera SoC 
+微机原理与接口技术：基本原理、实用技术和基于FPGA的SOC技术
+基于Quartus II的FPGA/CPLD设计实例精解 李大社 电子工业出版社 9787
+电子设计自动化应用技术——FPGA应用篇 路而红 9787040280500
+电子系统设计与实战——STM32+FPGA控制版  9787040427332
+包邮 基于Xilinx Vivado的数字逻辑实验教程 Vivado FPGA硬件开发教程
+基于FPGA的数字系统设计与实践/电子信息科学与工程类专业规划教材
+基于FPGA的现代数字系统设计 刘桂华编 科技 书籍
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材 电子信息
+FPGA数字逻辑设计/21世纪大学本科计算机专业系列教材
+包邮 Verilog-HDL实用设计与工程制作+Verilog HDL与FPGA数字系统设
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材·电子信息
+包邮 勇敢的芯伴你玩转Nios II+基于VHDL的FPGA和Nios II实例精炼 Ni
+基于FPGA的数字图像处理原理及应用 科技 书籍
+EDA技术与CPLD/FPGA开发应用简明教程/刘爱荣，王振成，曹瑞，卢
+电子设计自动化应用技术--FPGA应用篇(普通高等教育十一五国家级
+微型计算机系统接口技术实验教程-基于FPGA 第二版  清华大学计算机系列教材
+EDA技术与CPLD-FPGA开发简明教程-(第二版)-高等
+FPGA数字信号处理设计教程--System Gener
+工程技术丛书：FPGA电子系统设计项目实战（VHDL语言）
+电子与嵌入式系统设计译丛：FPGA快速系统原型设计权威指南
+FPGA应用技术及实践（第2版）
+【满58包邮】数字电路的FPGA设计与实现(应用篇)周鹏机械工业出版社大学教材大学课本高职
+【满58包邮】数字电路的FPGA设计与实现(基础篇)刘岚著机械工业出版社大学教材大学课本高
+FPGA/Verilog技术基础与工程应用实例/21世纪高等学校规划教材 电子信息
+FPGA上的嵌入式系统设计实例附光盘XILINX大学合作计划指定教材 赵峰//马迪铭//孙
+FPGA应用技术及实践null
+FPGA与SOPC设计教程：DE2实践（附盘）
+EDA技术与CPLD/FPGA开发应用简明教程（第2版）/高等学校计算机应用规划教材
+高性能FPGA系统:时序设计与分析
+三位一体实战精讲系列丛书：FPGA嵌入式项目开发三位一体实战精讲（附光盘1张）
+硬件描述语言与FPGA设计技术
+锁相环技术原理及FPGA实现
+FPGA CPLD边练边学 快速入门Verilog VHDL 计算机与互联网 书籍
+Xilinx FPGA应用进阶——通用IP核详解和设计开发
+包邮基于Xilinx Vivado的数字逻辑实验教程+基于FPGA的数字信号处理(第2版)
+基于SRAM的FPGA容错技术
+基于FPGA的数字电路实验指导书
+Xilinx FPGA/CPLD设计手册
+区域包邮FPGA设计技巧与案例开发详解（第2版）
+Xilinx FPGA高速串行传输技术与应用 黄万伟等编 科技 书籍
+FPGA深度解析
+电子设计自动化应用技术：FPGA应用篇
+FPGA/ASIC高性能数字系统设计
+FPGA快速系统原型设计权威指南
+数字通信同步技术的MATLAB与FPGA实现-(含光盘1张
+基于FPGA的数字系统设计与实践
+FPGA异构计算--基于Open CL的开发方法
+数字电路与FPGA设计实验教程
+数字电路的FPGA设计与实现(基础篇)
+数字电路的FPGA设计与实现(应用篇)
+CPLD/FPGA与ASIC设计实践教程(第二版)
+CPLD/FPGA设计预与应用高级教程/郭利文，邓月明
+FPGA设计基础 王传新 9787040224832
+EDA技术与FPGA应用设计 7成新
+基于Quartus Prime的FPGA/CPLD数字系统设计实例（第3版）
+Verilog HDL与CPLD/FPGA项目开发教程 第2版
+基于FPGA的EDA/SOPC技术与VHDL/杨晓慧，杨永健著
+FPGA/CPLD应用技术:Verilog语言版王静霞主编 第2版
+基于FPGA的计算机体系结构实践教程杨军
+EDA技术与CPLD/FPGA开发应用简明教程 第二版
+FPGA设计及应用(第3版) 褚振勇 科技 书籍
+数字电路的FPGA设计与实现（基础篇 附光盘1张）
+Xilinx FPGA设计与实践教程/赵吉成赵吉成
+微型计算机接口技术实验教程：基于FPGA设计
+正版现货 数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版
+手把手教你学CPLD FPGA与单片机联合设计(附光盘)/手把手教你学系列丛书
+典型密码算法FPGA实现 杨亚涛 9787121303838
+Altera FPGA 9成新
+例说FPGA 可直接用于工程项目的第*手经验+锁相环技术原理及
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版
+Xilinx ZYNQ-7000 AP SoC开发实战指南 FPGA系统结构分析 XADC
+轻松学会FPGA设计与开发
+CPLD-FPGA应用项目教程
+FPGA兼容ARM9的软核处理器设计：基于
+DSP/FPGA嵌入式实时处理技术及应用
+FPGA开发与应用
+FPGA设计-(含光盘)
+FPGA Implementation of Mil-Std-1553b Bus...
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA应用开发入门与典型实例（修订版）
+Synthesis of Arithmetic Circuits: FPGA, ...
+Field-Programmable Gate Array (FPGA) Tec...
+Guide to FPGA Implementation of Arithmet...
+Advanced FPGA Design: Architecture, Impl...
+工程技术丛书：Xilinx新一代FPGA设计套件Vivado应用指南
+无线通信的MATLAB 和FPGA 实现  人民邮电出版社 POD按需出版
+电子系统设计与实战：STM32+FPGA控制版
+数字逻辑原理与FPGA设计(第2版)
+深入浅出玩转FPGA（第2版 附光盘）
+Xilinx FPGA开发实用教程（第2版）（配光盘）（EDA工程技术丛书）
+电子设计自动化应用技术：FPGA应用篇
+FPGA/ASIC高性能数字系统设计
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+FPGA数字信号处理与工程应用实践(含盘)
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+数字逻辑原理与FPGA设计-(第2版)
+轻松学会FPGA设计与开发
+CPLD-FPGA应用项目教程
+FPGA开发与应用
+FPGA设计-(含光盘)
+FPGA与SOPC设计教程：DE2实践（附盘）
+EDA技术与CPLD/FPGA开发应用简明教程（第2版）/高等学校计算机应用规划教材
+深入浅出玩转FPGA（第2版 附光盘）
+Xilinx FPGA开发实用教程（第2版）（配光盘）（EDA工程技术丛书）
+例说FPGA：可直接用于工程项目的第一手经验
+FPGA深度解析
+Xilinx FPGA数字信号处理权威指南：从HDL到模型和C的描述
+FPGA设计实战演练（高级技巧篇）
+数字信号处理的FPGA实现（第3版）（配光盘）（国外电子信息经典教材）
+嵌入式高速串行总线技术：基于FPGA实现与应用
+应用技术丛书：Xilinx系列FPGA芯片IP核详解
+FPGA异构计算：基于OpenCL的开发方法
+电子系统EDA新技术丛书·Xilinx FPGA权威设计指南：Vivado 2014集成开发环境
+高性能FPGA系统：时序设计与分析
+FPGA博客藏经阁丛书：那些年，我们拿下了
+FPGA那些事儿：Verilog HDL建模设计
+应用技术丛书：Altera系列FPGA芯片IP核详解
+数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA/CPLD边练边学：快速入门Verilog/VHDL
+Xilinx FPGA高速串行传输技术与应用
+电子设计与嵌入式开发实践丛书：FPGA设计实战演练（逻辑篇）
+应用技术丛书：数字通信同步技术的MATLAB与FPGA实现（附光盘）
+DSP/FPGA嵌入式实时处理技术及应用
+Altera FPGA/CPLD设计（基础篇）（第2版）（附光盘1张）
+基于FPGA的嵌入式系统设计：Altera SoC 
+你好FPGA：一本可以听的入门书
+博客藏经阁丛书：深入理解Altera FPGA应用设计
+数字通信同步技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+Verilog HDL与FPGA数字系统设计/高等院校电子信息与电气学科系列规划教材
+XILINX大学合作计划指定教材：FPGA上的嵌入式系统设计实例（附光盘）
+FPGA设计：从电路到系统（电子设计与嵌入式开发实践丛书）
+FPGA设计基础
+电子设计自动化应用技术：FPGA应用篇
+FPGA开发与应用
+轻松学会FPGA设计与开发
+FPGA与SOPC设计教程：DE2实践（附盘）
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+深入浅出玩转FPGA（第2版 附光盘）
+Xilinx FPGA开发实用教程（第2版）（配光盘）（EDA工程技术丛书）
+例说FPGA：可直接用于工程项目的第一手经验
+FPGA深度解析
+Xilinx FPGA数字信号处理权威指南：从HDL到模型和C的描述
+FPGA设计实战演练（高级技巧篇）
+数字信号处理的FPGA实现（第3版）（配光盘）（国外电子信息经典教材）
+嵌入式高速串行总线技术：基于FPGA实现与应用
+应用技术丛书：Xilinx系列FPGA芯片IP核详解
+FPGA异构计算：基于OpenCL的开发方法
+电子系统EDA新技术丛书·Xilinx FPGA权威设计指南：Vivado 2014集成开发环境
+高性能FPGA系统：时序设计与分析
+FPGA博客藏经阁丛书：那些年，我们拿下了
+FPGA那些事儿：Verilog HDL建模设计
+应用技术丛书：Altera系列FPGA芯片IP核详解
+数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA/CPLD边练边学：快速入门Verilog/VHDL
+Xilinx FPGA高速串行传输技术与应用
+电子设计与嵌入式开发实践丛书：FPGA设计实战演练（逻辑篇）
+应用技术丛书：数字通信同步技术的MATLAB与FPGA实现（附光盘）
+DSP/FPGA嵌入式实时处理技术及应用
+Altera FPGA/CPLD设计（基础篇）（第2版）（附光盘1张）
+基于FPGA的嵌入式系统设计：Altera SoC 
+你好FPGA：一本可以听的入门书
+博客藏经阁丛书：深入理解Altera FPGA应用设计
+数字通信同步技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+Verilog HDL与FPGA数字系统设计/高等院校电子信息与电气学科系列规划教材
+XILINX大学合作计划指定教材：FPGA上的嵌入式系统设计实例（附光盘）
+FPGA设计：从电路到系统（电子设计与嵌入式开发实践丛书）
+FPGA设计基础
+电子设计自动化应用技术：FPGA应用篇
+FPGA/ASIC高性能数字系统设计
+FPGA快速系统原型设计权威指南
+数字通信同步技术的MATLAB与FPGA实现-(含光盘1张
+基于FPGA的数字系统设计与实践
+FPGA异构计算--基于Open CL的开发方法
+数字电路与FPGA设计实验教程
+数字电路的FPGA设计与实现(基础篇)
+数字电路的FPGA设计与实现(应用篇)
+CPLD/FPGA与ASIC设计实践教程(第二版)
+CPLD/FPGA设计预与应用高级教程/郭利文，邓月明
+FPGA设计基础 王传新 9787040224832
+EDA技术与FPGA应用设计 7成新
+基于Quartus Prime的FPGA/CPLD数字系统设计实例（第3版）
+Verilog HDL与CPLD/FPGA项目开发教程 第2版
+基于FPGA的EDA/SOPC技术与VHDL/杨晓慧，杨永健著
+FPGA/CPLD应用技术:Verilog语言版王静霞主编 第2版
+基于FPGA的计算机体系结构实践教程杨军
+EDA技术与CPLD/FPGA开发应用简明教程 第二版
+FPGA设计及应用(第3版) 褚振勇 科技 书籍
+数字电路的FPGA设计与实现（基础篇 附光盘1张）
+Xilinx FPGA设计与实践教程/赵吉成赵吉成
+微型计算机接口技术实验教程：基于FPGA设计
+正版现货 数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版
+手把手教你学CPLD FPGA与单片机联合设计(附光盘)/手把手教你学系列丛书
+典型密码算法FPGA实现 杨亚涛 9787121303838
+Altera FPGA 9成新
+例说FPGA 可直接用于工程项目的第*手经验+锁相环技术原理及
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版
+Xilinx ZYNQ-7000 AP SoC开发实战指南 FPGA系统结构分析 XADC
+FPGA开发与应用
+FPGA设计-(含光盘)
+FPGA Implementation of Mil-Std-1553b Bus...
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA应用开发入门与典型实例（修订版）
+Synthesis of Arithmetic Circuits: FPGA, ...
+Field-Programmable Gate Array (FPGA) Tec...
+Guide to FPGA Implementation of Arithmet...
+Advanced FPGA Design: Architecture, Impl...
+工程技术丛书：Xilinx新一代FPGA设计套件Vivado应用指南
+无线通信的MATLAB 和FPGA 实现  人民邮电出版社 POD按需出版
+电子系统设计与实战：STM32+FPGA控制版
+数字逻辑原理与FPGA设计(第2版)
+数字电路与FPGA/21世纪信息与通信技术教程 7成新
+基于Quartus II的FPGA/CPLD数字系统设计与应用 工业技术 书籍
+高性能FPGA系统-时序设计与分析
+实例讲解 基于Quartus II的FPGA/CPLD数字系统设计快速入门+基于Quart
+基于FPGA的伺服系统数字控制技术
+Altera FPGA/CPLD设计（高级篇）（第2版）（附光盘1张）
+包邮 数字滤波器+数字通信同步技术+数字调制解调技术的MATLAB与FPGA实现: Alt
+基于SRAM的FPGA容错技术
+用Verilog设计FPGA样机实例解析
+电子电气设计与自动控制系列 CPLD/FPGA应用开发技术与工程实践  求是科技 编著
+Verilog FPGA芯片设计(附光盘)
+基于Quartus Ⅱ的FPGA/CPLD数字系统设计实例 周润景,图雅,张丽敏著 电子工
+7天搞定FPGA-Robei与Xilinx实战
+基于FPGA密码技术的设计与应用杨军
+基于FPGA的数字信号处理
+FPGA Optimized Processor
+轻松学会FPGA设计与开发
+CPLD-FPGA应用项目教程
+FPGA兼容ARM9的软核处理器设计：基于
+DSP/FPGA嵌入式实时处理技术及应用
+普通高等院校“十二五”规划教材：FPGA应用实验教程
+FPGA开发与应用(高等学校应用型特色规划教材)
+正版新书 基于FPGA的数字电路实验指导书
+Xilinx FPGA高速串行传输技术与应用
+FPGA电子系统设计项目实战-(VHDL语言)
+FPGA高手设计实战真经100则
+FPGA设计实战演练(高级技巧篇)
+FPGA项目开发实战讲解|4675300
+FPGA应用技术及实践-(第2版)
+EDA技术与FPGA工程实例开发/任文平等
+CPLD-FPGA 技术应用项目教程
+硬件描述语言与FPGA设计技术
+FPGA/CPLD系统设计与应用开发
+Xilinx系统FPGA芯片IP核详解
+你好FPGA-一本可以听的入门书
+Verilog HDL与CPLD FPGA项目开发教程(
+你好FPGA-一本可以听的入门书
+FPGA应用技术及实践-(第2版)
+面向CPLD/FPGA的Verilog设计
+硬件描述语言与FPGA设计技术
+FPGA应用技术教程（Xilinx公司大学计划官方指定教材）/21世纪高等院校信息与通信工程规划教材·精品系列
+Xilinx PlanAhead应用详解   FPGA应用技术丛书
+嵌入式高速串行总线技术-基于FPGA实现与应用
+实例讲解基于Quarfus II的FPGA/CPLD数字系统设计
+微型计算机系统接口技术实验教程--基于FPGA(第2版)
+FPGA与SOPC设计教程/DE2实践（含光盘）张志刚
+FPGA与SOPC设计教程：DE2实践（附盘）
+EDA技术与CPLD/FPGA开发应用简明教程（第2版）/高等学校计算机应用规划教材
+高性能FPGA系统:时序设计与分析
+三位一体实战精讲系列丛书：FPGA嵌入式项目开发三位一体实战精讲（附光盘1张）
+硬件描述语言与FPGA设计技术
+锁相环技术原理及FPGA实现
+FPGA CPLD边练边学 快速入门Verilog VHDL 计算机与互联网 书籍
+Xilinx FPGA应用进阶——通用IP核详解和设计开发
+包邮基于Xilinx Vivado的数字逻辑实验教程+基于FPGA的数字信号处理(第2版)
+基于SRAM的FPGA容错技术
+基于FPGA的数字电路实验指导书
+Xilinx FPGA/CPLD设计手册
+区域包邮FPGA设计技巧与案例开发详解（第2版）
+Xilinx FPGA高速串行传输技术与应用 黄万伟等编 科技 书籍
+FPGA深度解析
+FPGA设计实战演练逻辑篇 吴厚航编 计算机与互联网 书籍
+单片机与FPGA实训教程
+高等学校信息工程类“十二五”规划教材：Xilinx FPGA设计基础（VHDL版）（附光盘1张）
+Xilinx FPGA数字电路设计
+数字调制解调技术的MATLAB与FPGA实现 Altera Verilog版 杜勇编 计
+用VERILOG设计FPGA样机实例解析(XILINX SPARTAN-
+零存整取NetFPGA开发指南
+例说FPGA吴厚航 可直接用于工程项目的**手经验
+区域包邮 FPGA设计实战演练（高级技巧篇）+
+FPGA/CPLD应用设计200例．下册
+ARM7与FPGA综合设计及应用(含1CD)
+Xilinx FPGA开发实用教程(第2版) 徐文波田耘 计算机与互联网 书籍
+FPGA设计
+CPLD/FPGA与ASIC设计实践教程（第二版）
+FPGA技术及应用
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+数字逻辑原理与FPGA设计-(第2版)
+数字逻辑原理与FPGA设计-(第2版)
+FPGA Prototyping Using Verilog Examples:...
+Tree-Based Heterogeneous FPGA Architectu...
+FPGA Implementation of Reed-Solomon Code
+FPGA Architecture: Survey and Challenges
+【预订】FPGA Implementation of Anti-Jamming
+【预订】Practical FPGA Programming in C
+【预订】FPGA Implementation of Lmmse Detect
+【预订】A Management Paradigm for FPGA Design
+FPGA Implementation of Low Cost Holter M...
+An FPGA Based Adaptive Noise Cancellation
+Machine Vision on FPGA for Recognition o...
+【预订】Netfpga Architecture and Hardwa
+【预订】FPGA Fuzzy (Pd & Pid) Controller Models
+FPGA Implementation of Advanced Encrypti...
+FPGAEnergy Efficient Design Techniques on 
+A Novel High Speed FPGA Architecture Des...
+FPGA Implementation of DFT Using Cordic ...
+【预订】FPGA Simulation: A Complete Step-By-Step
+FPGA-Based Prototyping Methodology Manua...
+FPGAPower Analysis of Solar Inverter on 
+【预订】FPGA Field-Programmable Gate Array:
+Modular Exponent Realization on FPGA for...
+FPGA设计：从电路到系统
+基于FPGA密码技术的设计与应用
+FPGA Implementations of Neural Networks
+Guide to FPGA Implementation of Arithmet...
+Synthesis and Optimization of FPGA-Based...
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+FPGA数字信号处理与工程应用实践(含盘)
+Altera FPGA/CPLD设计(高级篇)(第2版)(Altera公司推荐
+基于FPGA的嵌入式系统设计-Altera SoC 
+微机原理与接口技术：基本原理、实用技术和基于FPGA的SOC技术
+基于Quartus II的FPGA/CPLD设计实例精解 李大社 电子工业出版社 9787
+电子设计自动化应用技术——FPGA应用篇 路而红 9787040280500
+电子系统设计与实战——STM32+FPGA控制版  9787040427332
+包邮 基于Xilinx Vivado的数字逻辑实验教程 Vivado FPGA硬件开发教程
+基于FPGA的数字系统设计与实践/电子信息科学与工程类专业规划教材
+基于FPGA的现代数字系统设计 刘桂华编 科技 书籍
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材 电子信息
+FPGA数字逻辑设计/21世纪大学本科计算机专业系列教材
+包邮 Verilog-HDL实用设计与工程制作+Verilog HDL与FPGA数字系统设
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材·电子信息
+包邮 勇敢的芯伴你玩转Nios II+基于VHDL的FPGA和Nios II实例精炼 Ni
+基于FPGA的数字图像处理原理及应用 科技 书籍
+EDA技术与CPLD/FPGA开发应用简明教程/刘爱荣，王振成，曹瑞，卢
+电子设计自动化应用技术--FPGA应用篇(普通高等教育十一五国家级
+微型计算机系统接口技术实验教程-基于FPGA 第二版  清华大学计算机系列教材
+EDA技术与CPLD-FPGA开发简明教程-(第二版)-高等
+FPGA数字信号处理设计教程--System Gener
+工程技术丛书：FPGA电子系统设计项目实战（VHDL语言）
+电子与嵌入式系统设计译丛：FPGA快速系统原型设计权威指南
+FPGA应用技术及实践（第2版）
+【满58包邮】数字电路的FPGA设计与实现(应用篇)周鹏机械工业出版社大学教材大学课本高职
+【满58包邮】数字电路的FPGA设计与实现(基础篇)刘岚著机械工业出版社大学教材大学课本高
+FPGA/Verilog技术基础与工程应用实例/21世纪高等学校规划教材 电子信息
+FPGA上的嵌入式系统设计实例附光盘XILINX大学合作计划指定教材 赵峰//马迪铭//孙
+FPGA应用技术及实践null
+深入浅出玩转FPGA（第2版 附光盘）
+Xilinx FPGA开发实用教程（第2版）（配光盘）（EDA工程技术丛书）
+例说FPGA：可直接用于工程项目的第一手经验
+FPGA深度解析
+Xilinx FPGA数字信号处理权威指南：从HDL到模型和C的描述
+FPGA设计实战演练（高级技巧篇）
+数字信号处理的FPGA实现（第3版）（配光盘）（国外电子信息经典教材）
+嵌入式高速串行总线技术：基于FPGA实现与应用
+应用技术丛书：Xilinx系列FPGA芯片IP核详解
+FPGA异构计算：基于OpenCL的开发方法
+电子系统EDA新技术丛书·Xilinx FPGA权威设计指南：Vivado 2014集成开发环境
+高性能FPGA系统：时序设计与分析
+FPGA博客藏经阁丛书：那些年，我们拿下了
+FPGA那些事儿：Verilog HDL建模设计
+应用技术丛书：Altera系列FPGA芯片IP核详解
+数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA/CPLD边练边学：快速入门Verilog/VHDL
+Xilinx FPGA高速串行传输技术与应用
+电子设计与嵌入式开发实践丛书：FPGA设计实战演练（逻辑篇）
+应用技术丛书：数字通信同步技术的MATLAB与FPGA实现（附光盘）
+DSP/FPGA嵌入式实时处理技术及应用
+Altera FPGA/CPLD设计（基础篇）（第2版）（附光盘1张）
+基于FPGA的嵌入式系统设计：Altera SoC 
+你好FPGA：一本可以听的入门书
+博客藏经阁丛书：深入理解Altera FPGA应用设计
+数字通信同步技术的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+Verilog HDL与FPGA数字系统设计/高等院校电子信息与电气学科系列规划教材
+XILINX大学合作计划指定教材：FPGA上的嵌入式系统设计实例（附光盘）
+FPGA设计：从电路到系统（电子设计与嵌入式开发实践丛书）
+FPGA设计基础
+电子设计自动化应用技术：FPGA应用篇
+FPGA/ASIC高性能数字系统设计
+FPGA快速系统原型设计权威指南
+数字通信同步技术的MATLAB与FPGA实现-(含光盘1张
+基于FPGA的数字系统设计与实践
+FPGA异构计算--基于Open CL的开发方法
+数字电路与FPGA设计实验教程
+数字电路的FPGA设计与实现(基础篇)
+数字电路的FPGA设计与实现(应用篇)
+CPLD/FPGA与ASIC设计实践教程(第二版)
+CPLD/FPGA设计预与应用高级教程/郭利文，邓月明
+FPGA设计基础 王传新 9787040224832
+EDA技术与FPGA应用设计 7成新
+基于Quartus Prime的FPGA/CPLD数字系统设计实例（第3版）
+Verilog HDL与CPLD/FPGA项目开发教程 第2版
+基于FPGA的EDA/SOPC技术与VHDL/杨晓慧，杨永健著
+FPGA/CPLD应用技术:Verilog语言版王静霞主编 第2版
+基于FPGA的计算机体系结构实践教程杨军
+EDA技术与CPLD/FPGA开发应用简明教程 第二版
+FPGA设计及应用(第3版) 褚振勇 科技 书籍
+数字电路的FPGA设计与实现（基础篇 附光盘1张）
+Xilinx FPGA设计与实践教程/赵吉成赵吉成
+微型计算机接口技术实验教程：基于FPGA设计
+正版现货 数字调制解调技术的MATLAB与FPGA实现——Altera/Verilog版
+手把手教你学CPLD FPGA与单片机联合设计(附光盘)/手把手教你学系列丛书
+典型密码算法FPGA实现 杨亚涛 9787121303838
+Altera FPGA 9成新
+例说FPGA 可直接用于工程项目的第*手经验+锁相环技术原理及
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版
+Xilinx ZYNQ-7000 AP SoC开发实战指南 FPGA系统结构分析 XADC
+FPGA开发与应用
+FPGA设计-(含光盘)
+FPGA Implementation of Mil-Std-1553b Bus...
+数字滤波器的MATLAB与FPGA实现——Altera/Verilog版(附光盘)
+FPGA应用开发入门与典型实例（修订版）
+Synthesis of Arithmetic Circuits: FPGA, ...
+Field-Programmable Gate Array (FPGA) Tec...
+Guide to FPGA Implementation of Arithmet...
+Advanced FPGA Design: Architecture, Impl...
+工程技术丛书：Xilinx新一代FPGA设计套件Vivado应用指南
+无线通信的MATLAB 和FPGA 实现  人民邮电出版社 POD按需出版
+电子系统设计与实战：STM32+FPGA控制版
+数字逻辑原理与FPGA设计(第2版)
+数字电路与FPGA/21世纪信息与通信技术教程 7成新
+基于Quartus II的FPGA/CPLD数字系统设计与应用 工业技术 书籍
+高性能FPGA系统-时序设计与分析
+实例讲解 基于Quartus II的FPGA/CPLD数字系统设计快速入门+基于Quart
+基于FPGA的伺服系统数字控制技术
+Altera FPGA/CPLD设计（高级篇）（第2版）（附光盘1张）
+包邮 数字滤波器+数字通信同步技术+数字调制解调技术的MATLAB与FPGA实现: Alt
+基于SRAM的FPGA容错技术
+用Verilog设计FPGA样机实例解析
+电子电气设计与自动控制系列 CPLD/FPGA应用开发技术与工程实践  求是科技 编著
+Verilog FPGA芯片设计(附光盘)
+基于Quartus Ⅱ的FPGA/CPLD数字系统设计实例 周润景,图雅,张丽敏著 电子工
+7天搞定FPGA-Robei与Xilinx实战
+基于FPGA密码技术的设计与应用杨军
+基于FPGA的数字信号处理
+FPGA Optimized Processor
+轻松学会FPGA设计与开发
+CPLD-FPGA应用项目教程
+FPGA兼容ARM9的软核处理器设计：基于
+DSP/FPGA嵌入式实时处理技术及应用
+普通高等院校“十二五”规划教材：FPGA应用实验教程
+FPGA开发与应用(高等学校应用型特色规划教材)
+正版新书 基于FPGA的数字电路实验指导书
+Xilinx FPGA高速串行传输技术与应用
+FPGA电子系统设计项目实战-(VHDL语言)
+FPGA高手设计实战真经100则
+FPGA设计实战演练(高级技巧篇)
+FPGA项目开发实战讲解|4675300
+FPGA应用技术及实践-(第2版)
+EDA技术与FPGA工程实例开发/任文平等
+CPLD-FPGA 技术应用项目教程
+硬件描述语言与FPGA设计技术
+FPGA/CPLD系统设计与应用开发
+Xilinx系统FPGA芯片IP核详解
+你好FPGA-一本可以听的入门书
+Verilog HDL与CPLD FPGA项目开发教程(
+你好FPGA-一本可以听的入门书
+FPGA应用技术及实践-(第2版)
+面向CPLD/FPGA的Verilog设计
+硬件描述语言与FPGA设计技术
+FPGA应用技术教程（Xilinx公司大学计划官方指定教材）/21世纪高等院校信息与通信工程规划教材·精品系列
+Xilinx PlanAhead应用详解   FPGA应用技术丛书
+嵌入式高速串行总线技术-基于FPGA实现与应用
+实例讲解基于Quarfus II的FPGA/CPLD数字系统设计
+微型计算机系统接口技术实验教程--基于FPGA(第2版)
+FPGA与SOPC设计教程/DE2实践（含光盘）张志刚
+FPGA与SOPC设计教程：DE2实践（附盘）
+EDA技术与CPLD/FPGA开发应用简明教程（第2版）/高等学校计算机应用规划教材
+高性能FPGA系统:时序设计与分析
+三位一体实战精讲系列丛书：FPGA嵌入式项目开发三位一体实战精讲（附光盘1张）
+硬件描述语言与FPGA设计技术
+锁相环技术原理及FPGA实现
+FPGA CPLD边练边学 快速入门Verilog VHDL 计算机与互联网 书籍
+Xilinx FPGA应用进阶——通用IP核详解和设计开发
+包邮基于Xilinx Vivado的数字逻辑实验教程+基于FPGA的数字信号处理(第2版)
+基于SRAM的FPGA容错技术
+基于FPGA的数字电路实验指导书
+Xilinx FPGA/CPLD设计手册
+区域包邮FPGA设计技巧与案例开发详解（第2版）
+Xilinx FPGA高速串行传输技术与应用 黄万伟等编 科技 书籍
+FPGA深度解析
+FPGA设计实战演练逻辑篇 吴厚航编 计算机与互联网 书籍
+单片机与FPGA实训教程
+高等学校信息工程类“十二五”规划教材：Xilinx FPGA设计基础（VHDL版）（附光盘1张）
+Xilinx FPGA数字电路设计
+数字调制解调技术的MATLAB与FPGA实现 Altera Verilog版 杜勇编 计
+用VERILOG设计FPGA样机实例解析(XILINX SPARTAN-
+零存整取NetFPGA开发指南
+例说FPGA吴厚航 可直接用于工程项目的**手经验
+区域包邮 FPGA设计实战演练（高级技巧篇）+
+FPGA/CPLD应用设计200例．下册
+ARM7与FPGA综合设计及应用(含1CD)
+Xilinx FPGA开发实用教程(第2版) 徐文波田耘 计算机与互联网 书籍
+FPGA设计
+CPLD/FPGA与ASIC设计实践教程（第二版）
+FPGA技术及应用
+Xilinx FPGA应用进阶：通用IP核详解和设计开发
+数字逻辑原理与FPGA设计-(第2版)
+数字逻辑原理与FPGA设计-(第2版)
+FPGA Prototyping Using Verilog Examples:...
+Tree-Based Heterogeneous FPGA Architectu...
+FPGA Implementation of Reed-Solomon Code
+FPGA Architecture: Survey and Challenges
+【预订】FPGA Implementation of Anti-Jamming
+【预订】Practical FPGA Programming in C
+【预订】FPGA Implementation of Lmmse Detect
+【预订】A Management Paradigm for FPGA Design
+FPGA Implementation of Low Cost Holter M...
+An FPGA Based Adaptive Noise Cancellation
+Machine Vision on FPGA for Recognition o...
+【预订】Netfpga Architecture and Hardwa
+【预订】FPGA Fuzzy (Pd & Pid) Controller Models
+FPGA Implementation of Advanced Encrypti...
+FPGAEnergy Efficient Design Techniques on 
+A Novel High Speed FPGA Architecture Des...
+FPGA Implementation of DFT Using Cordic ...
+【预订】FPGA Simulation: A Complete Step-By-Step
+FPGA-Based Prototyping Methodology Manua...
+FPGAPower Analysis of Solar Inverter on 
+【预订】FPGA Field-Programmable Gate Array:
+Modular Exponent Realization on FPGA for...
+FPGA设计：从电路到系统
+基于FPGA密码技术的设计与应用
+FPGA Implementations of Neural Networks
+Guide to FPGA Implementation of Arithmet...
+Synthesis and Optimization of FPGA-Based...
+数字调制调解技术的MATLAB与FPGA实现-Altera-Ve
+FPGA数字信号处理与工程应用实践(含盘)
+Altera FPGA/CPLD设计(高级篇)(第2版)(Altera公司推荐
+基于FPGA的嵌入式系统设计-Altera SoC 
+微机原理与接口技术：基本原理、实用技术和基于FPGA的SOC技术
+基于Quartus II的FPGA/CPLD设计实例精解 李大社 电子工业出版社 9787
+电子设计自动化应用技术——FPGA应用篇 路而红 9787040280500
+电子系统设计与实战——STM32+FPGA控制版  9787040427332
+包邮 基于Xilinx Vivado的数字逻辑实验教程 Vivado FPGA硬件开发教程
+基于FPGA的数字系统设计与实践/电子信息科学与工程类专业规划教材
+基于FPGA的现代数字系统设计 刘桂华编 科技 书籍
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材 电子信息
+FPGA数字逻辑设计/21世纪大学本科计算机专业系列教材
+包邮 Verilog-HDL实用设计与工程制作+Verilog HDL与FPGA数字系统设
+Verilog数字系统设计与FPGA应用/21世纪高等学校规划教材·电子信息
+包邮 勇敢的芯伴你玩转Nios II+基于VHDL的FPGA和Nios II实例精炼 Ni
+基于FPGA的数字图像处理原理及应用 科技 书籍
+EDA技术与CPLD/FPGA开发应用简明教程/刘爱荣，王振成，曹瑞，卢
+电子设计自动化应用技术--FPGA应用篇(普通高等教育十一五国家级
+微型计算机系统接口技术实验教程-基于FPGA 第二版  清华大学计算机系列教材
+EDA技术与CPLD-FPGA开发简明教程-(第二版)-高等
+FPGA数字信号处理设计教程--System Gener
+工程技术丛书：FPGA电子系统设计项目实战（VHDL语言）
+电子与嵌入式系统设计译丛：FPGA快速系统原型设计权威指南
+FPGA应用技术及实践（第2版）
+【满58包邮】数字电路的FPGA设计与实现(应用篇)周鹏机械工业出版社大学教材大学课本高职
+【满58包邮】数字电路的FPGA设计与实现(基础篇)刘岚著机械工业出版社大学教材大学课本高
+FPGA/Verilog技术基础与工程应用实例/21世纪高等学校规划教材 电子信息
+FPGA上的嵌入式系统设计实例附光盘XILINX大学合作计划指定教材 赵峰//马迪铭//孙
+FPGA应用技术及实践null
